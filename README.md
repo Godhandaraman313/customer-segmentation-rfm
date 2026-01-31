@@ -1,5 +1,7 @@
 # Customer Segmentation using RFM Analysis
 
+https://colab.research.google.com/drive/1fCb8eAm5kB8XAoBebgFPuDRt-24L4n1u#scrollTo=vpxtTsyFwigY
+
 ##  Project Overview
 This project performs customer segmentation using RFM (Recency, Frequency, Monetary) analysis
 on retail transaction data to identify high-value and at-risk customers.
